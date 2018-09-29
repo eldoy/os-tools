@@ -1,0 +1,15 @@
+{
+  "name": "filer",
+  "version": "0.0.1",
+  "description": "Command line utility for uploading files to amazon",
+  "main": "index.js",
+  "author": "fugroup <vidar@fugroup.net>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "conficurse": "^0.0.3",
+    "dugg": "^0.0.1",
+    "rainlog": "^0.0.2",
+    "yargs": "^12.0.2"
+  }
+}
